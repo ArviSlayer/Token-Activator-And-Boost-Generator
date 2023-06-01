@@ -33,6 +33,8 @@
 #
 
 # 📷・GÖRSELLER
-![Screenshot_1](https://user-images.githubusercontent.com/69751083/211621326-e5e11222-bda2-43e0-a77b-a0fcd0c34f9c.png)
+![Scredesnshot_1](https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/assets/69751083/d15e623c-0c1a-4a7c-ae5a-a5ec10c15eda)
 
-![Screenshot_2](https://user-images.githubusercontent.com/69751083/211621336-c37a6a32-7085-4afc-b82d-74e360e77776.png)
+![Screenshot_1](https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/assets/69751083/4f07a09a-81ca-47a9-b49d-2726191543ef)
+
+![Screessnshot_1](https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/assets/69751083/afd1f303-ead7-4719-95ba-7e11153b3ee9)
