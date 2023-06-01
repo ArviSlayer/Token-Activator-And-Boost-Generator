@@ -21,7 +21,7 @@
 # 📞・İLETİŞİM
 💙・**Discord:** ArviS#0011
 
-🔗・**Destek Sunucusu:** [ArviS'in Özel Mülkiyeti](https://discord.gg/ERCM8VcBmA)
+🔗・**Destek Sunucusu:** [Türkiye Komünist Partisi](https://discord.gg/tkp)
 
 💜・**Instagram:** [@arvis_here](https://www.instagram.com/arvis_here/)
 #
