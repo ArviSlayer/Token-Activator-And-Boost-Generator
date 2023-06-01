@@ -1,0 +1,31 @@
+{
+  "name": "arvis0011-token-joiner-activator-and-boost-generator",
+  "version": "9.9.9",
+  "description": "ArviS#0011 - Token Joiner & Activator And Boost Generator",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js",
+    "test": "node arvis.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator.git"
+  },
+
+  "author": "ArviS#0011",
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/issues"
+  },
+
+  "homepage": "https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator#readme",
+  "dependencies": {
+    "2captcha": "^3.0.5",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.2",
+    "https-proxy-agent": "5.0.1",
+    "node-capmonster": "^0.4.2",
+    "nodemon": "^2.0.22"
+  }
+}
