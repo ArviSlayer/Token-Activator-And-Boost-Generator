@@ -28,14 +28,9 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-joiner-boost-generator-
 # 📞・İLETİŞİM
 💙・**Discord:** arvis.
 
-🔗・**Destek Sunucusu:** [Türkiye Komünist Partisi](https://discord.gg/demDHM7sJB)
+🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
-💜・**Instagram:** [@arvis_here](https://www.instagram.com/arvis_here/)
-#
-#
-
-# ❗・NOT
-😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
+💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
 #
 #
 
@@ -45,3 +40,8 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-joiner-boost-generator-
 ![Screenshot_1](https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/assets/69751083/4f07a09a-81ca-47a9-b49d-2726191543ef)
 
 ![Screessnshot_1](https://github.com/ArviSlayer/Token-Joiner-Activator-And-Boost-Generator/assets/69751083/afd1f303-ead7-4719-95ba-7e11153b3ee9)
+#
+#
+
+# ❗・NOT
+😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
