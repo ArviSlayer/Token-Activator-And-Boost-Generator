@@ -28,9 +28,9 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-joiner-boost-generator-
 #
 
 # 📞・İLETİŞİM
-💙・**Discord:** ArviS#0011
+💙・**Discord:** arvis.
 
-🔗・**Destek Sunucusu:** [Türkiye Komünist Partisi](https://discord.gg/tkp)
+🔗・**Destek Sunucusu:** [Türkiye Komünist Partisi](https://discord.gg/demDHM7sJB)
 
 💜・**Instagram:** [@arvis_here](https://www.instagram.com/arvis_here/)
 #
