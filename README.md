@@ -1,4 +1,4 @@
-# 🤖・Sisteme BİLEREK 6 Farklı Hata Bırakıldıd
+# 🤖・Sisteme BİLEREK 6 Farklı Hata Bırakıldı
 ⭐・**6 Hatayıda Çözüp Sistemi Başlatabilirsiniz.**
 # 
 #
