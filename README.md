@@ -1,7 +1,5 @@
 # 🤖・Sisteme BİLEREK 6 Farklı Hata Bırakıldı
 ⭐・**6 Hatayıda Çözüp Sistemi Başlatabilirsiniz.**
-
-[https://www.itemsatis.com/discord/token-activator-and-boost-generator-1662952.html](https://www.itemsatis.com/discord/token-joiner-boost-generator-1689985.html)
 # 
 #
 
